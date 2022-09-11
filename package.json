@@ -1,0 +1,16 @@
+{
+  "name": "claudiaquintana-masajes-main",
+  "version": "1.0.0",
+  "description": "Prueba de start up de masajes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
